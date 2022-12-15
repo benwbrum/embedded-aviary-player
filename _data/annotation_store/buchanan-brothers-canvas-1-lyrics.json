@@ -1,0 +1,510 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/embedded-aviary-player/annotations/buchanan-brothers-canvas-1-lyrics.json",
+  "type": "AnnotationPage",
+  "label": "Lyrics",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Oh this world is at a tremble with its strength and mighty power",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "atomic bomb",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "20,25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "There sending up to heaven to get the brimstone fire",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "religious allusion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "25,28"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Take warning my dear brother, be careful how you plan",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "29,33"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "You're working with the power of God's own holy hand",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "religious allusion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33,37"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Atomic power, atomic power",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "38,42"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Was given by the mighty hand of God",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "religious allusion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "42,46"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Atomic power, atomic power",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "46,51"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It was given by the mighty hand of God",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "religious allusion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "51,55"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "You remember two great cities in a distant foreign land",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "ww2",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "atomic bomb",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "73,77"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "When scorched from the face of earth the power of Japan",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "ww2",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "77,82"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Be careful my dear brother, don't take away the joy",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "82,85"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "But use it for the good of man and never to destroy",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "nuclear energy",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "85,91"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "refrain",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "92,107"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Hiroshima, Nagasaki paid a big price for their sins",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "ww2",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "atomic bomb",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "125,130"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "When scorched from the face of earth their battles could not win",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "130,134"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "But on that day of judgment when comes a greater power",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "religious allusion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "135,138"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "We will not know the minute and we'll not know the hour",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "biblical reference",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "religious allusion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "138,143"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-lyrics-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "refrain",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "143,150"
+        }
+      }
+    }
+  ]
+}

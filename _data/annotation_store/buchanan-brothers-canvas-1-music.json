@@ -1,0 +1,98 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/embedded-aviary-player/annotations/buchanan-brothers-canvas-1-music.json",
+  "type": "AnnotationPage",
+  "label": "Music",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-music-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Clarinet solo opens",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "clarinet",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0,19"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-music-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "woodwind solo, lower than opening solo",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "clarinet",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "56,73"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-music-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "guitar solo",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "steel guitar",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "108,125"
+        }
+      }
+    }
+  ]
+}

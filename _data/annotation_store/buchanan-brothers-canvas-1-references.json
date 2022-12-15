@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/embedded-aviary-player/annotations/buchanan-brothers-canvas-1-references.json",
+  "type": "AnnotationPage",
+  "label": "References",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-references-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Matthew 23:36",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/embedded-aviary-player/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "138,143"
+        }
+      }
+    }
+  ]
+}
