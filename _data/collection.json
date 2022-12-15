@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Embedded Aviary Player Test" ] },
+    "summary": { "en": [ "Testing embedding the Aviary IIIF player within a manifest" ] },
+    "items": [
+    ]
+}
