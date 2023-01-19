@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Gilgamesh
 manifest_name: gilgamesh
 permalink: gilgamesh
