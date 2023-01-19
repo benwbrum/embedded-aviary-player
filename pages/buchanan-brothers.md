@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Buchanan Brothers
 manifest_name: buchanan-brothers
 permalink: buchanan-brothers
