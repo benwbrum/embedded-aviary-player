@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: 'colons: quotes" tics'' pipes| slashes\ amps& hooray'
 manifest_name: colons-quotes-tics-pipes-slashes-amps-hooray
 permalink: colons-quotes-tics-pipes-slashes-amps-hooray
